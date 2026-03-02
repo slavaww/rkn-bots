@@ -1,7 +1,7 @@
 # Automation of IP address renewal
 
-This project uses blacklists from <https://github.com/C24Be/AS_Network_List/blob/main/blacklists/blacklist.txt>  
-Протестирован для серверов на базе Ubuntu 22.04/24.04
+This project uses blacklists from <https://github.com/C24Be/AS_Network_List>  
+Tested for servers based on Ubuntu 22.04/24.04
 
 ## How to use
 
